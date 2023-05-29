@@ -1,0 +1,23 @@
+.select2{
+    /* This is mainly bootstrap form-control class */
+    
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+}
+
+.select2-container .select2-selection--single {
+  
+    height: 38px;
+    margin: -7px -12px -7px -12px;
+  }
+
+  .select2-container .select2-selection--single {
+    
+    padding: 5px 7px 7px 5px;
+  }
+
+.note-editor.note-frame.fullscreen {
+    background-color: white;
+}
+
+
